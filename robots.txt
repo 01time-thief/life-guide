@@ -1,0 +1,17 @@
+# 人生执行导航站 · 公网发布
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /_tools
+
+# 内容由作者整理，转载/镜像需授权
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+# 内容指纹：155b4b2b7088

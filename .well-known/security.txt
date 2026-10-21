@@ -1,0 +1,5 @@
+Contact: mailto:security@example.invalid
+Expires: 2027-10-22T00:00:00.000Z
+Preferred-Languages: zh-CN, en
+# 本站是纯静态单文件页，无后端、无登录、无表单；如发现内容被冒用请按 CONTENT-POLICY.md 说明联系
+Canonical: /.well-known/security.txt
